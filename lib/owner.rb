@@ -69,4 +69,5 @@ class Owner
             cat.owner = nil
         end
     end
+
 end
