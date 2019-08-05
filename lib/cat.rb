@@ -4,7 +4,7 @@ class Cat
 
     def initialize(name)
         @name = name
-        @owner = owner
+        @owner = Owner
     end
 
 
