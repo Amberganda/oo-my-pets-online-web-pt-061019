@@ -8,6 +8,6 @@ class Owner
     end
 
     def species(animal_name)
-        @species = human
+        @species = "human"
     end
 end
